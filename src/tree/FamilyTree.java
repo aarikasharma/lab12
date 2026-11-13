@@ -1,4 +1,4 @@
-package trees;
+package tree;
 
 import java.util.*;
 import java.io.*;
